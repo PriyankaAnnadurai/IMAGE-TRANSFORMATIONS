@@ -222,90 +222,41 @@ show_image(cropped_image)
 ```
 
 
-
-
 ## Output:
 
 ### (i) Image Translation
-<br>
-<br>
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/9403cc4f-659b-4d45-a23b-7eece3d5a2ed) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/ba41546f-e75a-498b-9761-22152f8ca355)
 
-<br>
-<br>
-
 ### (ii) Image Scaling
-<br>
-<br>
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/a2ce159a-d45b-46ca-88bd-bca1de8bd52d) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/29b73d78-bb84-4e4c-9418-26021f2da065)
 
-<br>
-<br>
-
-
 ### (iii) Image shearing
-<br>
-<br>
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/78452bbf-b9a9-4efd-bf7e-4bcc8ba987e3) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/3fda3129-34b2-4a69-9963-802b6b102230)
 
-<br>
-<br>
-
-
 ### (iv) Image Reflection
-
 
 #### Reflecting Horizontally
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/a5c9b71d-838b-44bc-9e53-30417158e7ac) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/22f9d64d-dfb2-4295-9c10-dd17b166f165)
 
-
-
-
 #### Reflecting Vertically
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/f6a75d44-46f6-47fb-b6e9-c077c463d6cc) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/64f90c2c-e275-451e-9c39-0806381e1542)
-
-
 
 #### Reflecting Horizontally & Vertically
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/d906cac6-d59b-434f-870d-646b32afcd8b) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/f27b5c4d-7a9b-48aa-b064-304c20abcefc)
 
-
-
-<br>
-<br>
-
-
 ### (v) Image Rotation
-<br>
-<br>
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/949c9219-14a4-4b31-8ded-1f360e6afbac) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/ac54593f-6135-4e2f-82c5-bebbfda7da08)
 
-
-
-<br>
-<br>
-
-
-
 ### (vi) Image Cropping
-<br>
-<br>
 
 ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/d48c3b16-b51b-4f6c-88d8-85e72aaedd3a) ![image](https://github.com/PriyankaAnnadurai/IMAGE-TRANSFORMATIONS/assets/118351569/197f77c5-f577-4da0-8d69-18d1f75343c6)
-
-
-<br>
-<br>
-
-
-
 
 ## Result: 
 
