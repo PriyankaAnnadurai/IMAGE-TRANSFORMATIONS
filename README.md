@@ -1,6 +1,5 @@
 # IMAGE-TRANSFORMATIONS
 
-
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -8,21 +7,15 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step 1:
-#### Import numpy module as np and pandas as pd.
-### Step 2:
-#### Assign the values to variables in the program.
-### Step 3:
-#### Get the values from the user appropriately.
-### Step 4:
-#### Continue the program by implementing the codes of required topics.
-### Step 5:
-#### Thus the program is executed in google colab.
+### Step 1: Import numpy module as np and pandas as pd.
+### Step 2: Assign the values to variables in the program.
+### Step 3: Get the values from the user appropriately.
+### Step 4: Continue the program by implementing the codes of required topics.
+### Step 5: Thus the program is executed in google colab.
 
 ## Program:
 
 #### Developed By : Priyanka A
-
 #### Register Number : 212222230113
 
 ### Installing OpenCV , importing necessary libraries and displaying images  
