@@ -10,31 +10,22 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step 1:
 #### Import numpy module as np and pandas as pd.
-<br>
-
 ### Step 2:
 #### Assign the values to variables in the program.
-<br>
-
 ### Step 3:
 #### Get the values from the user appropriately.
-<br>
-
 ### Step 4:
 #### Continue the program by implementing the codes of required topics.
-<br>
-
 ### Step 5:
 #### Thus the program is executed in google colab.
-<br>
 
 ## Program:
 
-### Developed By : Priyanka A
+#### Developed By : Priyanka A
 
-### Register Number : 212222230113
+#### Register Number : 212222230113
 
-#### Installing OpenCV , importing necessary libraries and displaying images  
+### Installing OpenCV , importing necessary libraries and displaying images  
 
 ```py
 # Install OpenCV library
